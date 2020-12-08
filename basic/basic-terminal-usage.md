@@ -1,2 +1,0 @@
-# Basic - Terminal Usage
-
